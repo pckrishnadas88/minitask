@@ -99,7 +99,7 @@ SQLite currently provides persistent task storage. Workers retrieve pending task
 - [x] Task handler registry
 - [x] Basic worker execution
 - [x] Automated unit tests
-- [ ] Connection lifecycle management
+- [x] Connection lifecycle management
 
 ### Phase 2 — Concurrency
 
